@@ -1,0 +1,8 @@
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\bin\Debug\08_methods.exe.config
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\bin\Debug\08_methods.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\bin\Debug\08_methods.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\obj\Debug\08_methods.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\obj\Debug\08_methods.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\obj\Debug\08_methods.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\obj\Debug\08_methods.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\08_methods\obj\Debug\08_methods.exe.config

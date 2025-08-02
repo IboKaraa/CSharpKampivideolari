@@ -1,0 +1,8 @@
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\bin\Debug\07_foreachloops.exe.config
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\bin\Debug\07_foreachloops.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\bin\Debug\07_foreachloops.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\obj\Debug\07_foreachloops.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\obj\Debug\07_foreachloops.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\obj\Debug\07_foreachloops.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\obj\Debug\07_foreachloops.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\07_foreachloops\obj\Debug\07_foreachloops.exe.config

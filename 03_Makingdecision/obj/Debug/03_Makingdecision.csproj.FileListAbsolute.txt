@@ -1,0 +1,8 @@
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\bin\Debug\03_Makingdecision.exe.config
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\bin\Debug\03_Makingdecision.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\bin\Debug\03_Makingdecision.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\obj\Debug\03_Makingdecision.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\obj\Debug\03_Makingdecision.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\obj\Debug\03_Makingdecision.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\obj\Debug\03_Makingdecision.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\03_Makingdecision\obj\Debug\03_Makingdecision.exe.config

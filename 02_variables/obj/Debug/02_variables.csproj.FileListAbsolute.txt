@@ -1,0 +1,8 @@
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\bin\Debug\02_variables.exe.config
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\bin\Debug\02_variables.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\bin\Debug\02_variables.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\obj\Debug\02_variables.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\obj\Debug\02_variables.exe
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\obj\Debug\02_variables.pdb
+C:\Users\ibrahim\source\repos\Csharpeğitimkampı\02_variables\obj\Debug\02_variables.exe.config
