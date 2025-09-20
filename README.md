@@ -28,3 +28,6 @@ Bu derste  Murat Yücedağ'ın örnekleriyle birlikte geriye değer döndüren v
 Bu derste entity framework metotları ve linq sorguları kullanarak bir tatil uygulamasının istatistik kısmını yaptık ve ekran alıntısını aşağıdaki şekilde ekledim. 
 
 <img width="1878" height="751" alt="Image" src="https://github.com/user-attachments/assets/4c12dba7-bc6d-4976-9517-953900c6d167" />
+
+🎗️-SON DERS FİNANCİAL CRM APPLİCATİON
+
